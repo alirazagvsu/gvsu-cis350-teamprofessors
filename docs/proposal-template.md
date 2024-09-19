@@ -7,6 +7,8 @@ Team members:
 (In 2-4 paragraphs, describe your project concept)
 (Also define some loosely defined features of your project using bullet points)
 
+My project is about building a rocket ship game for children in K-12 to learn about different science concepts.
+
 # Anticipated Technologies
 
 (What technologies are needed to build this project)
